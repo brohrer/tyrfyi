@@ -1,44 +1,61 @@
 # Redirects for inbound queries
-# /                   https://brandonrohrer.com/card.html    301!
-/                   https://e2eml.school/blog.html    301!
-
-/i                    https://e2eml.school/blog.html    301!
-/ind                  https://e2eml.school/blog.html    301!
-/index                https://e2eml.school/blog.html    301!
-
-/p                  https://docs.google.com/document/d/14dL2zGrvJ0QJ9rLz9VPLOYw2l3czEkyN98CGnB8CZwI/edit  301!
-/port               https://docs.google.com/document/d/14dL2zGrvJ0QJ9rLz9VPLOYw2l3czEkyN98CGnB8CZwI/edit  301!
-/portfolio          https://docs.google.com/document/d/14dL2zGrvJ0QJ9rLz9VPLOYw2l3czEkyN98CGnB8CZwI/edit  301!
-
-/httyr                    https://brandonrohrer.com/httyr/httyr.html    301!
+/                    https://brandonrohrer.com/httyr/httyr.html    301!
+/i                   https://brandonrohrer.com/httyr/httyr.html    301!
+/ind                 https://brandonrohrer.com/httyr/httyr.html    301!
+/index               https://brandonrohrer.com/httyr/httyr.html    301!
+/httyr               https://brandonrohrer.com/httyr/httyr.html    301!
 /howtotrainyourrobot      https://brandonrohrer.com/httyr/httyr.html    301!
 /how_to_train_your_robot  https://brandonrohrer.com/httyr/httyr.html    301!
 
 /httyr1                    https://brandonrohrer.com/httyr/httyr01.html    301!
+/1                    https://brandonrohrer.com/httyr/httyr01.html    301!
 /httyr1pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_1/chapter_1.pdf    301!
+/1pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_1/chapter_1.pdf    301!
 /httyr1book     https://www.lulu.com/shop/brandon-rohrer/cant-artificial-intelligence-already-do-that/paperback/product-wddm7j.html?page=1&pageSize=4 301!
+/1book     https://www.lulu.com/shop/brandon-rohrer/cant-artificial-intelligence-already-do-that/paperback/product-wddm7j.html?page=1&pageSize=4 301!
 /httyr1files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_1    301!
+/1files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_1    301!
 
 /httyr2         https://www.brandonrohrer.com/httyr/httyr02.html    301!
+/2         https://www.brandonrohrer.com/httyr/httyr02.html    301!
 /httyr2pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_2/chapter_2.pdf    301!
+/2pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_2/chapter_2.pdf    301!
 /httyr2book     https://www.lulu.com/shop/brandon-rohrer/keeping-time-with-python/paperback/product-mnjkvz.html?page=1&pageSize=4 301!
+/2book     https://www.lulu.com/shop/brandon-rohrer/keeping-time-with-python/paperback/product-mnjkvz.html?page=1&pageSize=4 301!
 /httyr2files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_2    301!
+/2files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_2    301!
 
 /httyr3         https://www.brandonrohrer.com/httyr/httyr03.html    301!
+/3         https://www.brandonrohrer.com/httyr/httyr03.html    301!
 /httyr3pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_3/chapter_3.pdf    301!
+/3pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_3/chapter_3.pdf    301!
 /httyr3book     https://www.lulu.com/shop/brandon-rohrer/getting-processes-to-talk-to-each-other/paperback/product-jrnngv.html?page=1&pageSize=4  301!
+/3book     https://www.lulu.com/shop/brandon-rohrer/getting-processes-to-talk-to-each-other/paperback/product-jrnngv.html?page=1&pageSize=4  301!
 /httyr3files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_3    301!
+/3files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_3    301!
 
 /httyr4         https://www.brandonrohrer.com/httyr/httyr04.html    301!
+/4         https://www.brandonrohrer.com/httyr/httyr04.html    301!
 /httyr4pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_4/chapter_4.pdf    301!
+/4pdf      https://github.com/brohrer/how-to-train-your-robot/raw/main/chapter_4/chapter_4.pdf    301!
 /httyr4book     https://www.lulu.com/shop/brandon-rohrer/keeping-time-with-python/paperback/product-mnjkvz.html?page=1&pageSize=4 301!
+/4book     https://www.lulu.com/shop/brandon-rohrer/keeping-time-with-python/paperback/product-mnjkvz.html?page=1&pageSize=4 301!
 /httyr4files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_4    301!
+/4files    https://github.com/brohrer/how-to-train-your-robot/tree/main/chapter_4    301!
 
 /httyr4lissajous https://vimeo.com/760820897  301!
+/4lissajous      https://vimeo.com/760820897  301!
 /httyr4shadows   https://vimeo.com/763578113  301!
+/4shadows        https://vimeo.com/763578113  301!
 /httyr4pulsing   https://vimeo.com/765403954  301!
+/4pulsing        https://vimeo.com/765403954  301!
 /httyr4rocking   https://vimeo.com/765512127  301!
+/4rocking        https://vimeo.com/765512127  301!
 /httyr4constant  https://vimeo.com/768242153  301!
+/4constant       https://vimeo.com/768242153  301!
 /httyr4triangular https://vimeo.com/768247848  301!
+/4triangular     https://vimeo.com/768247848  301!
 /httyr4minjerk   https://vimeo.com/768248726  301! 
+/4minjerk        https://vimeo.com/768248726  301! 
 /httyr4logit     https://vimeo.com/772902777  301!
+/4logit          https://vimeo.com/772902777  301!
